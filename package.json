@@ -1,0 +1,18 @@
+{
+    "name": "gitbook-plugin-colorbrewer-picker",
+    "description": "Gitbook plugin to include js in templates",
+    "main": "index.js",
+    "version": "0.0.4",
+    "engines": {
+        "gitbook": "*"
+    },
+    "homepage": "https://github.com/nicgirault/gitbook-plugin-colorbrewer-picker",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nicgirault/gitbook-plugin-colorbrewer-picker.git"
+    },
+    "license": "Apache 2",
+    "bugs": {
+        "url": "https://github.com/nicgirault/gitbook-plugin-colorbrewer-picker/issues"
+    }
+}
