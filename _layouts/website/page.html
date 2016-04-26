@@ -1,0 +1,13 @@
+{% extends template.self %}
+
+{% block head %}
+    {{ super() }}
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//rawgit.com/nicgirault/angular-colorBrewer-picker/0.0.3/dist/angular-color-brewer-picker.min.css"></link>
+{% endblock %}
+
+{% block javascript %}
+    {{ super() }}
+    <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.15/angular.min.js"></script>
+    <script src="//raw.githack.com/nicgirault/angular-colorBrewer-picker/master/dist/angular-color-brewer-picker.min.js"></script>
+{% endblock %}
