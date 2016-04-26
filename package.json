@@ -1,7 +1,6 @@
 {
     "name": "gitbook-plugin-colorbrewer-picker",
     "description": "Gitbook plugin to include js in templates",
-    "main": "index.js",
     "version": "0.0.7",
     "engines": {
         "gitbook": "*"
